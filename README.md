@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Project - PopCorn [Movie Rating Web App] 🍿
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Technologies Used: React.js ⚛️
 
-## Available Scripts
+#### What I've Learned from the PopCorn Project:
 
-In the project directory, you can run:
+✔️ **User Input**
 
-### `npm start`
+   - 🧐 Implemented a search bar to read user input and send it to the API component.
+   - ⌨️ Enabled hitting the Enter key outside the search box to focus on the search bar while clearing previous searches.
+   - ❌ Added a restriction to not call the API when the input character length is less than 3.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✔️ **API Integration with Custom Components**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   - 🔄 Utilized the `useEffect()` hook to fetch data from the API.
+   - ❗ Managed errors during API requests.
+   - 🔄 Shared the fetched data with the required sibling components.
 
-### `npm test`
+✔️ **Data Representation in UI**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   - 📊 Displayed data in a list format.
+   - 📋 Employed the `map` method with optional chaining to list down the data.
 
-### `npm run build`
+✔️ **Changing Document Title**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   - 📚 Changed the document title when a user clicks on any movie.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✔️ **Star Rating Component**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   - ⭐ Utilized props as a Component API for modifying star ratings.
+   - 🌟 Allowed changing star colors, maximum ratings, default ratings, and star size.
 
-### `npm run eject`
+✔️ **Addlist, Local Storage, and Delete Option**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   - 📦 Enabled the "Addlist" option when a user rates a movie, allowing it to be added to a watched list with personalized ratings.
+   - 💼 Used local storage to store data of added movies to the watched list.
+   - 🗑️ Implemented a delete option for removing movies from the list.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### General Things Learned:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+✔️ **General Skills**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   - 🏗️ How to split UI into components.
+   - 🧩 Resolving the Prop Drilling issue.
+   - 🛠️ Creating and using custom components.
+   - 🌐 Effective handling of API requests.
+   - 🔄 Leveraging the `useEffect()` hook for various use cases.
+   - 📝 Understanding the use case of the `useRef()` hook (not implemented, but learned).
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
