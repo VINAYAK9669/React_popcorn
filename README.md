@@ -53,5 +53,5 @@
    - 📝 Understanding the use case of the `useRef()` hook (not implemented, but learned).
 
 ### Screenshots 
-![User Interface](readmeScreenshot/pic1.png)
+![User Interface](readmeScreenshot/Capture.JPG)
 
