@@ -1,10 +1,3 @@
-<style>
-  body {
-    background-color: #yourColorCode;
-  }
-</style>
-
-| Check the Demo - [Click here to view](https://vinayak9669.github.io/React_popcorn/)
 
 # 🍿 Project - PopCorn [Movie Rating Web App] 
 
@@ -12,10 +5,7 @@
 
 ### Technologies Used: React.js ⚛️
 
-<div style="background-color: #yourColorCode; padding: 10px;">
    Check the Demo - [Click here to view](https://vinayak9669.github.io/React_popcorn/)
-</div>
-
 
 #### What I've Learned from the PopCorn Project:
 
@@ -61,4 +51,7 @@
    - 🌐 Effective handling of API requests.
    - 🔄 Leveraging the `useEffect()` hook for various use cases.
    - 📝 Understanding the use case of the `useRef()` hook (not implemented, but learned).
+
+### Screenshots 
+![User Interface](readmeScreenshot/pic1.png)
 
