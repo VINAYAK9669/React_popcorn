@@ -4,6 +4,8 @@
 
 ### Technologies Used: React.js ⚛️
 
+| Check the Demo - (Click here to view)[https://vinayak9669.github.io/React_popcorn/]
+
 #### What I've Learned from the PopCorn Project:
 
 ✔️ **User Input**
