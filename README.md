@@ -4,7 +4,10 @@
 
 ### Technologies Used: React.js ⚛️
 
-| Check the Demo - (Click here to view)[https://vinayak9669.github.io/React_popcorn/]
+<div style="background-color: #yourColorCode; padding: 10px;">
+  | Check the Demo - [Click here to view](https://vinayak9669.github.io/React_popcorn/)
+</div>
+
 
 #### What I've Learned from the PopCorn Project:
 
