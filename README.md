@@ -1,3 +1,11 @@
+<style>
+  body {
+    background-color: #yourColorCode;
+  }
+</style>
+
+| Check the Demo - [Click here to view](https://vinayak9669.github.io/React_popcorn/)
+
 # 🍿 Project - PopCorn [Movie Rating Web App] 
 
 ## DESKTOP APP
@@ -5,7 +13,7 @@
 ### Technologies Used: React.js ⚛️
 
 <div style="background-color: #yourColorCode; padding: 10px;">
-  | Check the Demo - [Click here to view](https://vinayak9669.github.io/React_popcorn/)
+   Check the Demo - [Click here to view](https://vinayak9669.github.io/React_popcorn/)
 </div>
 
 
