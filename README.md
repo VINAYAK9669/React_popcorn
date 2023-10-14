@@ -1,4 +1,6 @@
-# Project - PopCorn [Movie Rating Web App] 🍿
+#🍿 Project - PopCorn [Movie Rating Web App] 
+
+## DESKTOP APP
 
 ### Technologies Used: React.js ⚛️
 
