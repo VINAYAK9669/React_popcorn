@@ -6,6 +6,7 @@
 ### Technologies Used: React.js ⚛️
 
    Check the Demo - [Click here to view](https://vinayak9669.github.io/React_popcorn/)
+   
    Check the Video Demo - [Click here to view linkedIn post with video demo](https://www.linkedin.com/posts/vinay1998_jobseeker-reactdeveloper-frontenddeveloper-activity-7118903567045836800-zJRI?utm_source=share&utm_medium=member_desktop)
 
 #### What I've Learned from the PopCorn Project:
